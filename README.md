@@ -7,3 +7,4 @@ squash test2
 squash test3
 
 use commit
+drop commit1
