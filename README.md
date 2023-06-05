@@ -12,3 +12,4 @@ drop commit2
 use commit2
 drop commit3
 use commit3
+squash commit1
