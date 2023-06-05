@@ -1,5 +1,2 @@
 # git
-
 git practice
-
-revert
