@@ -8,3 +8,4 @@ squash test3
 
 use commit
 drop commit1
+drop commit2
