@@ -2,4 +2,5 @@
 
 git practice
 
-HEAD~
+HEAD~1
+HEAD~2
